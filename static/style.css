@@ -1,6 +1,12 @@
-#appContainer {
-    position: relative;
-    margin: 0 auto;
-    width: 450px;
-    padding: 100px 0 0 0;
+body { margin: 0; }
+
+#pitchRoll {
+	position: absolute;
+	top: 90%;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+    color: white;
+    font-size: 32px;
 }
